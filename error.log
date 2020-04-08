@@ -251,3 +251,46 @@ warning: LF will be replaced by CRLF in index.html.
 The file will have its original line endings in your working directory.
 
 
+----------
+
+Tue Apr 07 2020 18:17:29 GMT-0700 (Pacific Daylight Time)
+
+warning: LF will be replaced by CRLF in error.log.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory.
+
+
+----------
+
+Tue Apr 07 2020 18:17:31 GMT-0700 (Pacific Daylight Time)
+
+fatal: HttpRequestException encountered.
+   An error occurred while sending the request.
+
+
+----------
+
+Tue Apr 07 2020 18:17:32 GMT-0700 (Pacific Daylight Time)
+
+fatal: HttpRequestException encountered.
+   An error occurred while sending the request.
+
+
+----------
+
+Tue Apr 07 2020 18:17:36 GMT-0700 (Pacific Daylight Time)
+
+To https://github.com/Squidable/Squidable.github.io.git
+   d3ac8fb..bc449b7  master -> master
+
+
+----------
+
+Tue Apr 07 2020 18:17:36 GMT-0700 (Pacific Daylight Time)
+
+To https://github.com/Squidable/Squidable.github.io.git
+ ! [remote rejected] master -> master (cannot lock ref 'refs/heads/master': is at 1527bd0712634d764f7f83da6db141655c0ed393 but expected d3ac8fb191e67fb75f6303c88e42c1d0152775b3)
+error: failed to push some refs to 'https://github.com/Squidable/Squidable.github.io.git'
+
+
