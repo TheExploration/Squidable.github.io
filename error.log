@@ -121,3 +121,35 @@ Tue Apr 07 2020 18:10:32 GMT-0700 (Pacific Daylight Time)
 Everything up-to-date
 
 
+----------
+
+Tue Apr 07 2020 18:12:50 GMT-0700 (Pacific Daylight Time)
+
+warning: LF will be replaced by CRLF in assets/bootstrap/css/bootstrap.min.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assets/bootstrap/js/bootstrap.min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assets/js/jquery.min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in error.log.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory.
+
+
+----------
+
+Tue Apr 07 2020 18:12:52 GMT-0700 (Pacific Daylight Time)
+
+fatal: HttpRequestException encountered.
+   An error occurred while sending the request.
+
+
+----------
+
+Tue Apr 07 2020 18:12:57 GMT-0700 (Pacific Daylight Time)
+
+To https://github.com/Squidable/Squidable.github.io.git
+   ea6dc3a..aaaf154  master -> master
+
+
