@@ -741,3 +741,37 @@ To https://github.com/Squidable/Squidable.github.io.git
    5dd35d1..b51fffa  master -> master
 
 
+----------
+
+Mon May 11 2020 10:22:28 GMT-0700 (Pacific Daylight Time)
+
+warning: LF will be replaced by CRLF in aboutme.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in error.log.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in parents.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in photos.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in programs.html.
+The file will have its original line endings in your working directory.
+
+
+----------
+
+Mon May 11 2020 10:22:35 GMT-0700 (Pacific Daylight Time)
+
+fatal: HttpRequestException encountered.
+   An error occurred while sending the request.
+
+
+----------
+
+Mon May 11 2020 10:22:41 GMT-0700 (Pacific Daylight Time)
+
+To https://github.com/Squidable/Squidable.github.io.git
+   b51fffa..429dbb5  master -> master
+
+
